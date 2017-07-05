@@ -185,3 +185,20 @@ call s:HL('GitGutterChangeDelete',          s:orange,   '',         '')
 call s:HL('SignifySignAdd',                 s:green,    '',         '')
 call s:HL('SignifySignChange',              s:yellow,   '',         '')
 call s:HL('SignifySignDelete',              s:red,      '',         '')
+
+let g:terminal_color_0  ="#323c4d"  " 0 black    
+let g:terminal_color_8  ="#51617d"  " 8 brblack  
+let g:terminal_color_1  ="#b15e7c"  " 1 red      
+let g:terminal_color_9  ="#c28098"  " 9 brred    
+let g:terminal_color_2  ="#709d6c"  " 2 green    
+let g:terminal_color_10 ="#8eb18b"  " 10 brgreen  
+let g:terminal_color_3  ="#b5a262"  " 3 yellow   
+let g:terminal_color_11 ="#c5b57d"  " 11 bryellow 
+let g:terminal_color_4  ="#608cc3"  " 4 blue     
+let g:terminal_color_12 ="#7fa4d1"  " 12 brblue   
+let g:terminal_color_5  ="#8f72bf"  " 5 magenta  
+let g:terminal_color_13 ="#ab95cf"  " 13 brmagenta
+let g:terminal_color_6  ="#56adb7"  " 6 cyan     
+let g:terminal_color_14 ="#7abec6"  " 14 brcyan   
+let g:terminal_color_7  ="#9aa7bd"  " 7 white    
+let g:terminal_color_15 ="#bec6d5"  " 15 brwhite  
